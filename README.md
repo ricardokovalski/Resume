@@ -10,5 +10,5 @@
 * [Um pouco sobre mim](/pt-br.md#um-pouco-sobre-mim)
 * [Onde me encontrar](/pt-br.md#onde-me-encontrar)
 * [Exeperiências](/pt-br.md#exeperincias)
-* [Formação](/pt-br.md#formao)
+* [Formação](/pt-br.md#formação)
 
