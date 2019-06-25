@@ -49,7 +49,7 @@ Sou Desenvolvedor com experiência no desenvolvimento de projetos com equipes á
 > **_SKILLS:_** PHP 5.6, Apache, MySQL, Oracle, PostgreSQL, Bootstrap, HTML, CSS, Jquery, Ajax, Laravel 5, Subversion, Git, Programação orientada a objetos, MVC, Scrum, Kanban.
 
 
-## Formação Acadêmica ##
+## Formação ##
 
 #### [Universidade La Salle](https://www.unilasalle.edu.br/canoas) ####
 

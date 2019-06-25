@@ -11,8 +11,8 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 
 ### Appmax ###
 
-* Full Stack web Developer PHP
-* March/2019 - Until now
+* Full Stack Web Developer PHP
+* March/2019 - Up to now
 
 > **_SKILLS:_** PHP (5.6, 7.0, 7.1, 7.2), Nginx, MySQL, Bootstrap, HTML5, CSS3, Jquery, VueJS, Ajax, Laravel 5, Git, Object-oriented programming, MVC, Linux, Amazon AWS, Docker, Redis, Scrum, Kanban.
 
@@ -27,7 +27,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 
 ### Dype Soluções ###
 
-* Full Stack web Developer PHP
+* Full Stack Web Developer PHP
 * April/2017 - July/2017
 
 > **_SKILLS:_** PHP 5.3, PHP2Go, Mysql, HTML5, CSS3, Jquery, Ajax, Subversion, Scrum, Object-oriented programming, HMVC.
@@ -35,7 +35,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 
 ### RZ2 Sistemas de gestão ###
 
-* Full Stack web Developer PHP
+* Full Stack Web Developer PHP
 * January/2016 - January/2017
 
 > **_SKILLS:_** PHP 5.6, Smarty, Apache, MySQL, Bootstrap, HTML5, CSS3, Jquery, Ajax, Laravel 5, Git, Object-oriented programming, MVC, Linux, Amazon AWS, Scrum, Kanban, Jira.
@@ -43,13 +43,13 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 
 ### Canoastec ###
 
-* Full Stack web Developer PHP
+* Full Stack Web Developer PHP
 * February/2014 - December/2015
 
 > **_SKILLS:_** PHP 5.6, Apache, MySQL, Oracle, PostgreSQL, Bootstrap, HTML, CSS, Jquery, Ajax, Laravel 5, Subversion, Git, Object-oriented programming, MVC, Scrum, Kanban.
 
 
-## Academic Training ##
+## Formation ##
 
 #### [Universidade La Salle](https://www.unilasalle.edu.br/canoas) ####
 
