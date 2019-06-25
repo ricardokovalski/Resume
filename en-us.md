@@ -1,4 +1,4 @@
-## A little about myself ##
+## A little about me ##
 
 I'm Developer with experience in developing projects with agile teams using SCRUM and Kanban methodologies. I'm self-taught, committed to work, organized, sociable and give prefer to work as a team.
 
