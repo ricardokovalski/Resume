@@ -33,7 +33,7 @@ Sou Desenvolvedor com experiência no desenvolvimento de projetos com equipes á
 > **_SKILLS:_** PHP 5.3, PHP2Go, Mysql, HTML5, CSS3, Jquery, Ajax, Subversion, Scrum, Programação orientada a objetos, HMVC.
 
 
-### RZ2 Sistemas de gestão
+### ~~RZ2 Sistemas de gestão~~ :arrow_right: Checklist Fácil
 
 * Desenvolvedor Web PHP Full Stack
 * Janeiro/2016 - Janeiro/2017

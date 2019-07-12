@@ -33,7 +33,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 > **_SKILLS:_** PHP 5.3, PHP2Go, Mysql, HTML5, CSS3, Jquery, Ajax, Subversion, Scrum, Object-oriented programming, HMVC.
 
 
-### RZ2 Sistemas de gestão
+### ~~RZ2 Sistemas de gestão~~ :arrow_right: Easy Checklist
 
 * Full Stack Web Developer PHP
 * January/2016 - January/2017
