@@ -1,4 +1,4 @@
-### ![:](languages/en-us.png) [Summary in English](/en-us.md)
+### :us: [Summary in English](/en-us.md)
 
 * [A little about me](/en-us.md#a-little-about-me)
 * [Where to find me](/en-us.md#where-to-find-me)
