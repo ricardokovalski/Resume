@@ -5,7 +5,7 @@
 * [Experiences](/en-us.md#experiences)
 * [Formation](/en-us.md#formation)
 
-### ![:](languages/pt-br.png) [Resumo em Português](/pt-br.md)
+### :brazil: [Resumo em Português](/pt-br.md)
 
 * [Um pouco sobre mim](/pt-br.md#um-pouco-sobre-mim)
 * [Onde me encontrar](/pt-br.md#onde-me-encontrar)
