@@ -10,7 +10,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 
 ## Experiences
 
-### :brazil: Appmax
+### ![:](assets/img/pt-br.png) Appmax
 
 * Full Stack Web Developer PHP
 * March/2019 - Up to now
@@ -18,7 +18,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 > **_SKILLS:_** PHP (5.6, 7.0, 7.1, 7.2), Nginx, MySQL, Bootstrap, HTML5, CSS3, Jquery, VueJS, Ajax, Laravel 5, Git, Object-oriented programming, MVC, Linux, Amazon AWS, Docker, Redis, Scrum, Kanban.
 
 
-### :brazil: Plano Transmedia
+### ![:](assets/img/pt-br.png) Plano Transmedia
 
 * Web Developer PHP
 * September/2017 - February/2019
@@ -26,7 +26,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 > **_SKILLS:_** PHP (5.6, 7.0, 7.1), Mysql, Apache, HTML5, CSS3, Jquery, Ajax, Bootstrap 3 and 4, SASS, LESS, Gulp, Grunt, Git, Laravel (5.2, 5.4, 5.5, 5.6, 5.7), Object-oriented programming, MVC.
 
 
-### :brazil: Dype Soluções
+### ![:](assets/img/pt-br.png) Dype Soluções
 
 * Full Stack Web Developer PHP
 * April/2017 - July/2017
@@ -34,7 +34,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 > **_SKILLS:_** PHP 5.3, PHP2Go, Mysql, HTML5, CSS3, Jquery, Ajax, Subversion, Scrum, Object-oriented programming, HMVC.
 
 
-### :brazil: ~~RZ2 Sistemas de gestão~~ :arrow_right: Easy Checklist
+### ![:](assets/img/pt-br.png) ~~RZ2 Sistemas de gestão~~ :arrow_right: Easy Checklist
 
 * Full Stack Web Developer PHP
 * January/2016 - January/2017
@@ -42,7 +42,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 > **_SKILLS:_** PHP 5.6, Smarty, Apache, MySQL, Bootstrap, HTML5, CSS3, Jquery, Ajax, Laravel 5, Git, Object-oriented programming, MVC, Linux, Amazon AWS, Scrum, Kanban, Jira.
 
 
-### :brazil: Canoastec
+### ![:](assets/img/pt-br.png) Canoastec
 
 * Full Stack Web Developer PHP
 * February/2014 - December/2015
