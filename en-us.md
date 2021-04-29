@@ -12,42 +12,42 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 
 ### ![:](assets/img/pt-br.png) Appmax
 
-* Full Stack Web Developer PHP
+* Full Stack Developer
 * March/2019 - Up to now
 
-> **_SKILLS:_** PHP (5.6, 7.0, 7.1, 7.2), Nginx, MySQL, Bootstrap, HTML5, CSS3, Jquery, VueJS, Ajax, Laravel 5, Git, Object-oriented programming, MVC, Linux, Amazon AWS, Docker, Redis, Scrum, Kanban.
+> **_SKILLS:_** PHP, Nginx, MySQL, Bootstrap, HTML5, CSS3, Jquery, VueJS, Ajax, Laravel, Git, Object-oriented programming, MVC, Linux, Amazon AWS, Docker, Redis, Scrum, Kanban.
 
 
 ### ![:](assets/img/pt-br.png) Plano Transmedia
 
-* Web Developer PHP
+* Backend Developer
 * September/2017 - February/2019
 
-> **_SKILLS:_** PHP (5.6, 7.0, 7.1), Mysql, Apache, HTML5, CSS3, Jquery, Ajax, Bootstrap 3 and 4, SASS, LESS, Gulp, Grunt, Git, Laravel (5.2, 5.4, 5.5, 5.6, 5.7), Object-oriented programming, MVC.
+> **_SKILLS:_** PHP, Mysql, Apache, HTML5, CSS3, Jquery, Ajax, Bootstrap, SASS, LESS, Gulp, Grunt, Git, Laravel, Object-oriented programming, MVC.
 
 
 ### ![:](assets/img/pt-br.png) Dype Soluções
 
-* Full Stack Web Developer PHP
+* Full Stack Developer
 * April/2017 - July/2017
 
-> **_SKILLS:_** PHP 5.3, PHP2Go, Mysql, HTML5, CSS3, Jquery, Ajax, Subversion, Scrum, Object-oriented programming, HMVC.
+> **_SKILLS:_** PHP, PHP2Go, Mysql, HTML5, CSS3, Jquery, Ajax, Subversion, Scrum, Object-oriented programming, HMVC.
 
 
 ### ![:](assets/img/pt-br.png) ~~RZ2 Sistemas de gestão~~ :arrow_right: Easy Checklist
 
-* Full Stack Web Developer PHP
+* Full Stack Developer
 * January/2016 - January/2017
 
-> **_SKILLS:_** PHP 5.6, Smarty, Apache, MySQL, Bootstrap, HTML5, CSS3, Jquery, Ajax, Laravel 5, Git, Object-oriented programming, MVC, Linux, Amazon AWS, Scrum, Kanban, Jira.
+> **_SKILLS:_** PHP, Smarty, Apache, MySQL, Bootstrap, HTML5, CSS3, Jquery, Ajax, Laravel, Git, Object-oriented programming, MVC, Linux, Amazon AWS, Scrum, Kanban, Jira.
 
 
 ### ![:](assets/img/pt-br.png) Canoastec
 
-* Full Stack Web Developer PHP
+* Full Stack Developer
 * February/2014 - December/2015
 
-> **_SKILLS:_** PHP 5.6, Apache, MySQL, Oracle, PostgreSQL, Bootstrap, HTML, CSS, Jquery, Ajax, Laravel 5, Subversion, Git, Object-oriented programming, MVC, Scrum, Kanban.
+> **_SKILLS:_** PHP, Apache, MySQL, Oracle, PostgreSQL, Bootstrap, HTML, CSS, Jquery, Ajax, Laravel, Subversion, Git, Object-oriented programming, MVC, Scrum, Kanban.
 
 
 ## Formation
@@ -55,7 +55,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 #### [Universidade La Salle](https://www.unilasalle.edu.br/canoas)
 
 * Bachelor's, Computer Sciense
-* 2013 - 2022
+* 2013 - 2023
 
 #### [Instituto Pró-Universidade Canoense](https://www.ipuc.edu.br/)
 
