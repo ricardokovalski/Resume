@@ -12,42 +12,42 @@ Sou Desenvolvedor com experiência no desenvolvimento de projetos com equipes á
 
 ### ![:](assets/img/pt-br.png) Appmax
 
-* Desenvolvedor Web PHP Full Stack
+* Desenvolvedor Full Stack
 * Março/2019 - Até o momento
 
-> **_SKILLS:_** PHP (5.6, 7.0, 7.1, 7.2), Nginx, MySQL, Bootstrap, HTML5, CSS3, Jquery, VueJS, Ajax, Laravel 5, Git, Programação orientada a objetos, MVC, Linux, Amazon AWS, Docker, Redis, Scrum, Kanban.
+> **_SKILLS:_** PHP, Nginx, MySQL, Bootstrap, HTML5, CSS3, Jquery, VueJS, Ajax, Laravel, Git, Programação orientada a objetos, MVC, Linux, Amazon AWS, Docker, Redis, Scrum, Kanban.
 
 
 ### ![:](assets/img/pt-br.png) Plano Transmedia
 
-* Desenvolvedor Web PHP
+* Desenvolvedor PHP
 * Setembro/2017 - Fevereiro/2019
 
-> **_SKILLS:_** PHP (5.6, 7.0, 7.1), Mysql, Apache, HTML5, CSS3, Jquery, Ajax, Bootstrap 3 e 4, SASS, LESS, Gulp, Grunt, Git, Laravel (5.2, 5.4, 5.5, 5.7), Programação orientada a objetos, MVC.
+> **_SKILLS:_** PHP, Mysql, Apache, HTML5, CSS3, Jquery, Ajax, Bootstrap, SASS, LESS, Gulp, Grunt, Git, Laravel, Programação orientada a objetos, MVC.
 
 
 ### ![:](assets/img/pt-br.png) Dype Soluções
 
-* Desenvolvedor Web PHP Full Stack
+* Desenvolvedor Full Stack
 * Abril/2017 - Julho/2017
 
-> **_SKILLS:_** PHP 5.3, PHP2Go, Mysql, HTML5, CSS3, Jquery, Ajax, Subversion, Scrum, Programação orientada a objetos, HMVC.
+> **_SKILLS:_** PHP, PHP2Go, Mysql, HTML5, CSS3, Jquery, Ajax, Subversion, Scrum, Programação orientada a objetos, HMVC.
 
 
 ### ![:](assets/img/pt-br.png) ~~RZ2 Sistemas de gestão~~ :arrow_right: Checklist Fácil
 
-* Desenvolvedor Web PHP Full Stack
+* Desenvolvedor Full Stack
 * Janeiro/2016 - Janeiro/2017
 
-> **_SKILLS:_** PHP 5.6, Smarty, Apache, MySQL, Bootstrap, HTML5, CSS3, Jquery, Ajax, Laravel 5, Git, Programação orientada a objetos, MVC, Linux, Amazon AWS, Scrum, Kanban, Jira.
+> **_SKILLS:_** PHP, Smarty, Apache, MySQL, Bootstrap, HTML5, CSS3, Jquery, Ajax, Laravel, Git, Programação orientada a objetos, MVC, Linux, Amazon AWS, Scrum, Kanban, Jira.
 
 
 ### ![:](assets/img/pt-br.png) Canoastec
 
-* Desenvolvedor Web PHP Full Stack
+* Desenvolvedor Full Stack
 * Fevereiro/2014 - Dezembro/2015
 
-> **_SKILLS:_** PHP 5.6, Apache, MySQL, Oracle, PostgreSQL, Bootstrap, HTML, CSS, Jquery, Ajax, Laravel 5, Subversion, Git, Programação orientada a objetos, MVC, Scrum, Kanban.
+> **_SKILLS:_** PHP, Apache, MySQL, Oracle, PostgreSQL, Bootstrap, HTML, CSS, Jquery, Ajax, Laravel, Subversion, Git, Programação orientada a objetos, MVC, Scrum, Kanban.
 
 
 ## Formação
@@ -55,7 +55,7 @@ Sou Desenvolvedor com experiência no desenvolvimento de projetos com equipes á
 #### [Universidade La Salle](https://www.unilasalle.edu.br/canoas)
 
 * Bacharelado, Ciência da Computação
-* 2013 - 2022
+* 2013 - 2023
 
 #### [Instituto Pró-Universidade Canoense](https://www.ipuc.edu.br/)
 
