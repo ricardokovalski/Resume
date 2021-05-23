@@ -1,4 +1,9 @@
-### ![:](assets/img/en-us.png) [Summary in English](/en-us.md)
+<h2 align="center">
+    <img src="assets/img/en-us.png" alt="en-us">
+    <a href="/en-us.md">Summary um English</a>
+</h2> 
+
+## ![:](assets/img/en-us.png) [Summary in English](/en-us.md)
 
 * [A little about me](/en-us.md#a-little-about-me)
 * [Where to find me](/en-us.md#where-to-find-me)
