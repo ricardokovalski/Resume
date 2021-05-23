@@ -1,4 +1,4 @@
-<h1>Um pouco sobre mim</h1>
+<h1 align="center">Um pouco sobre mim</h1>
 
 <p align="center">
 Sou Desenvolvedor com experiência no desenvolvimento de projetos com equipes ágeis utilizando as metodologias SCRUM e Kanban. Sou autodidata, comprometido com o trabalho, organizado, sociável e prefiro trabalhar em equipe.
