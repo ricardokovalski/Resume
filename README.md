@@ -1,18 +1,27 @@
 <h2 align="center">
     <img src="assets/img/en-us.png" alt="en-us">
-    <a href="/en-us.md">Summary um English</a>
+    <a href="/en-us.md">Summary in English</a>
 </h2> 
 
-## ![:](assets/img/en-us.png) [Summary in English](/en-us.md)
+<p align="center">
+    <ul>
+        <li><a href="/en-us.md#a-little-about-me">A little about me</a></li>
+        <li><a href="/en-us.md#where-to-find-me">Where to find me</a></li>
+        <li><a href="/en-us.md#experiences">Experiences</a></li>
+        <li><a href="/en-us.md#formation">Formation</a></li>
+    </ul>
+</p>
 
-* [A little about me](/en-us.md#a-little-about-me)
-* [Where to find me](/en-us.md#where-to-find-me)
-* [Experiences](/en-us.md#experiences)
-* [Formation](/en-us.md#formation)
+<h2 align="center">
+    <img src="assets/img/pt-br.png" alt="pt-br">
+    <a href="/pt-br.md">Resumo em Português</a>
+</h2> 
 
-### ![:](assets/img/pt-br.png) [Resumo em Português](/pt-br.md)
-
-* [Um pouco sobre mim](/pt-br.md#um-pouco-sobre-mim)
-* [Onde me encontrar](/pt-br.md#onde-me-encontrar)
-* [Experiências](/pt-br.md#experiências)
-* [Formação](/pt-br.md#formação)
+<p align="center">
+    <ul>
+        <li><a href="/pt-br.md#um-pouco-sobre-mim">Um pouco sobre mim</a></li>
+        <li><a href="/pt-br.md#onde-me-encontrar">Onde me encontrar</a></li>
+        <li><a href="/pt-br.md#experiências">Experiências</a></li>
+        <li><a href="/pt-br.md#formação">Formação</a></li>
+    </ul>
+</p>
