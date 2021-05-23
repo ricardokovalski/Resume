@@ -1,7 +1,7 @@
-<h3 align="center">
+<h1>
     <img src="assets/img/en-us.png" alt="en-us">
     <a href="/en-us.md">Summary in English</a>
-</h3> 
+</h1> 
 
 <p align="center">
     <ul>
@@ -12,10 +12,10 @@
     </ul>
 </p>
 
-<h3 align="center">
+<h1>
     <img src="assets/img/pt-br.png" alt="pt-br">
     <a href="/pt-br.md">Resumo em Português</a>
-</h3> 
+</h1> 
 
 <p align="center">
     <ul>
