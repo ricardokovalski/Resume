@@ -1,11 +1,15 @@
-## Um pouco sobre mim
+<h1>Um pouco sobre mim</h1>
 
+<p align="center">
 Sou Desenvolvedor com experiência no desenvolvimento de projetos com equipes ágeis utilizando as metodologias SCRUM e Kanban. Sou autodidata, comprometido com o trabalho, organizado, sociável e prefiro trabalhar em equipe.
+</p>
 
-## Onde me encontrar
-  
-![:](https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-20.png)[linkedin.com/in/ricardo-kovalski-cruz](https://www.linkedin.com/in/ricardo-kovalski-cruz/)  
-![:](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-20.png)[github.com/ricardokovalski](https://github.com/ricardokovalski)     
+<h2 align="center">Onde me encontrar</h2>
+
+<p align="center">
+    <a href="https://github.com/ricardokovalski"><img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-20.png" alt="Github"></a>
+    <a href="https://www.linkedin.com/in/ricardo-kovalski-cruz/"><img src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-20.png" alt="LinkedIn"></a>
+</p> 
 
 ## Experiências
 
