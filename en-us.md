@@ -16,8 +16,9 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 <h3 align="center">
     <img src="assets/img/pt-br.png" alt="Brazil">
     Appmax - Full Stack Developer    
-    <p><small>March/2019 - Up to now</small></p>
 </h3>
+
+<p align="center">March/2019 - Up to now</p>
 
 <h4 align="center">Principal Skills</h4>
 
@@ -38,12 +39,14 @@ I'm Developer with experience in developing projects with agile teams using SCRU
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
+<br/>
 
 <h3 align="center">
     <img src="assets/img/pt-br.png" alt="Brazil">
     Plano Transmedia - Backend Developer    
-    <p><small>September/2017 - February/2019</small></p>
 </h3>
+
+<p align="center">September/2017 - February/2019</p>
 
 <h4 align="center">Principal Skills</h4>
 
@@ -62,12 +65,14 @@ I'm Developer with experience in developing projects with agile teams using SCRU
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+<br/>
 
 <h3 align="center">
     <img src="assets/img/pt-br.png" alt="Brazil">
-    Dype Soluções - Full Stack Developer    
-    <p><small>April/2017 - July/2017</small></p>
+    Dype Soluções - Full Stack Developer
 </h3>
+
+<p align="center">April/2017 - July/2017</p>
 
 <h4 align="center">Principal Skills</h4>
 
@@ -80,12 +85,14 @@ I'm Developer with experience in developing projects with agile teams using SCRU
     <img alt="Subversion" src="https://img.shields.io/badge/subversion-%237C97C2.svg?style=for-the-badge&logo=subversion&logoColor=white"/>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+<br/>
 
 <h3 align="center">
     <img src="assets/img/pt-br.png" alt="Brazil">
     Easy Checklist - Full Stack Developer    
-    <p><small>January/2016 - January/2017</small></p>
 </h3>
+
+<p align="center">January/2016 - January/2017</p>
 
 <h4 align="center">Principal Skills</h4>
 
@@ -103,12 +110,14 @@ I'm Developer with experience in developing projects with agile teams using SCRU
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
+<br/>
 
 <h3 align="center">
     <img src="assets/img/pt-br.png" alt="Brazil">
     Canoastec - Full Stack Developer    
-    <p><small>February/2014 - December/2015</small></p>
 </h3>
+
+<p align="center">February/2014 - December/2015</p>
 
 <h4 align="center">Principal Skills</h4>
 
@@ -126,6 +135,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
     <img alt="Subversion" src="https://img.shields.io/badge/subversion-%237C97C2.svg?style=for-the-badge&logo=subversion&logoColor=white"/>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+<br/>
 
 <h2 align="center">Formation</h2>
 
