@@ -7,8 +7,15 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 <h2 align="center">Where to find me</h2>
 
 <p align="center">
-    <a href="https://github.com/ricardokovalski"><img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-20.png" alt="Github"></a>
-    <a href="https://www.linkedin.com/in/ricardo-kovalski-cruz/"><img src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-20.png" alt="LinkedIn"></a>
+    <a href="https://github.com/ricardokovalski">
+        <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ricardo-kovalski-cruz">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://t.me/ricardokovalski">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
 </p> 
 
 <h2 align="center">Experiences</h2>
@@ -25,7 +32,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 <p align="center">
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
     <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-    <img alt="MySql" src="https://img.shields.io/badge/MySQL-2B5D80?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%232B5D80.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -38,12 +45,13 @@ I'm Developer with experience in developing projects with agile teams using SCRU
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 </p>
 <br/>
 
 <h3 align="center">
     <img src="assets/img/pt-br.png" alt="Brazil">
-    Plano Transmedia - Backend Developer    
+    Plano Transmedia - Full Stack Developer    
 </h3>
 
 <p align="center">September/2017 - February/2019</p>
@@ -53,13 +61,16 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 <p align="center">
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
     <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-    <img alt="MySql" src="https://img.shields.io/badge/MySQL-2B5D80?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%232B5D80.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
     <img alt="LESS" src="https://img.shields.io/badge/LESS-%231D365D.svg?style=for-the-badge&logo=LESS&logoColor=white"/>
+    <img alt="Gulp" src="https://img.shields.io/badge/Gulp-%23E14A4E.svg?style=for-the-badge&logo=Gulp&logoColor=white"/>
+    <img alt="Grunt" src="https://img.shields.io/badge/Grunt-%23EC942B.svg?style=for-the-badge&logo=Grunt&logoColor=white"/>
     <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img alt="CodeIgniter" src="https://img.shields.io/badge/codeigniter-%23EE4323.svg?style=for-the-badge&logo=codeigniter&logoColor=white"/>
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -79,7 +90,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 <p align="center">
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
     <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-    <img alt="MySql" src="https://img.shields.io/badge/MySQL-2B5D80?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%232B5D80.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="Subversion" src="https://img.shields.io/badge/subversion-%237C97C2.svg?style=for-the-badge&logo=subversion&logoColor=white"/>
@@ -99,7 +110,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 <p align="center">
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
     <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-    <img alt="MySql" src="https://img.shields.io/badge/MySQL-2B5D80?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%232B5D80.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -124,7 +135,7 @@ I'm Developer with experience in developing projects with agile teams using SCRU
 <p align="center">
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
     <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-    <img alt="MySql" src="https://img.shields.io/badge/MySQL-2B5D80?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%232B5D80.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
     <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
